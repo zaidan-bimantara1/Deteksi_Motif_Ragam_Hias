@@ -1,0 +1,7 @@
+
+*.exe
+dist/
+*.zip
+*.7z
+*.msi
+*.log

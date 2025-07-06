@@ -1,0 +1,14 @@
+{
+  "name": "deteksi_motif_ragamhias",
+  "version": "1.0.0",
+  "description": "Deteksi Motif Ragam Hias",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package": "electron-packager . DeteksiMotifRagamHias --platform=win32 --arch=x64 --icon=batikicon.ico --overwrite"
+  },
+  "devDependencies": {
+    "electron": "^25.0.0",
+    "electron-packager": "^17.1.1"
+  }
+}
