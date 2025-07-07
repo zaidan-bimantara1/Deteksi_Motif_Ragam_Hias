@@ -8,7 +8,7 @@ Aplikasi desktop untuk mendeteksi motif ragam hias berbasis **Electron**. Aplika
 
 - **Nama Aplikasi**: Deteksi Motif Ragam Hias
 - **Versi**: 1.0.0
-- **Teknologi**: [Electron](https://www.electronjs.org/), [Node.js](https://nodejs.org/)
+- **Teknologi**: [Electron], [Node.js], [Tensorflow]
 - **Platform**: Windows (64-bit)
 
 ---
